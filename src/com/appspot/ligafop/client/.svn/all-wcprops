@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/32/LigaFOP/src/com/appspot/ligafop/client
+END
+JogoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/28/LigaFOP/src/com/appspot/ligafop/client/JogoList.java
+END
+PartidaDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/31/LigaFOP/src/com/appspot/ligafop/client/PartidaDetails.java
+END
+JogosApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/LigaFOP/src/com/appspot/ligafop/client/JogosApi.java
+END
+JogadorDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/LigaFOP/src/com/appspot/ligafop/client/JogadorDetails.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/LigaFOP/src/com/appspot/ligafop/client/Page.java
+END
+DeferredCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/LigaFOP/src/com/appspot/ligafop/client/DeferredCommand.java
+END
+DomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/LigaFOP/src/com/appspot/ligafop/client/DomUtils.java
+END
+LigaFOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/31/LigaFOP/src/com/appspot/ligafop/client/LigaFOP.java
+END
+LigaDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/23/LigaFOP/src/com/appspot/ligafop/client/LigaDetails.java
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/LigaFOP/src/com/appspot/ligafop/client/Widget.java
+END
+JogoDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/LigaFOP/src/com/appspot/ligafop/client/JogoDetails.java
+END
+ControlBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/LigaFOP/src/com/appspot/ligafop/client/ControlBar.java
+END
+PageTransitionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/LigaFOP/src/com/appspot/ligafop/client/PageTransitionPanel.java
+END
+JogosApiAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/LigaFOP/src/com/appspot/ligafop/client/JogosApiAsync.java
+END

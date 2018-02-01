@@ -1,0 +1,75 @@
+body {
+	font-size: 12px;
+}
+@sprite .back {
+  gwt-image: "back";
+  right: 90px;
+  cursor: pointer;
+}
+
+@sprite .remover {
+	gwt-image: "remove";
+	cursor: pointer;
+	float: left;
+}
+
+@sprite .adicionar {
+	gwt-image: "add";
+	cursor: pointer;
+	float: left;
+}
+
+.botoesJogador {
+	position: relative;
+	display: block;
+	height: 40px;
+}
+
+.partidaDetails {
+  padding: 5px;
+  overflow: hidden;
+}
+
+.fieldGroup {
+  position: relative;
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+.label {
+  position: absolute;
+  width: 50px;
+}
+
+.field {
+  position: relative;
+  left: 55px;
+  font-size: 15px;
+  height: 28px;
+}
+
+.pontuacaoField {
+  position: relative;
+  left: 5px;
+  width:30px;
+  height: 15px;
+}
+
+
+textArea {
+  width: 60%;
+  height: 80px;
+}
+
+input {
+  width: 60%;
+  height: 2.0em;
+}
+
+button {
+  height: 50px;
+  width: 130px;
+  font-size: 15px;
+  float: left;
+  margin-top: 30px;
+}

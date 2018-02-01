@@ -1,0 +1,2 @@
+serviceClass: com.appspot.ligafop.client.JogosApi
+path: 33504B0188564DE03DAAF2FD7FF338D9.gwt.rpc

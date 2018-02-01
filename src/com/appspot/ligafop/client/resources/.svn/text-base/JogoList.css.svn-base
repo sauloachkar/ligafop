@@ -1,0 +1,94 @@
+/* Annotated CSS styles for TaskList.java */
+body {
+  background-color: #fff;
+  font-family: Georgia, Times, serif;
+  color: #000;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+@sprite .plusJogo {
+  gwt-image: "plusJogo";
+  position: absolute;
+  right: 150px;
+  cursor: pointer;
+}
+
+@sprite .plusPartida {
+  gwt-image: "plusPartida";
+  position: absolute;
+  right: 75px;
+  cursor: pointer;
+}
+
+@sprite .configJogador {
+  gwt-image: "configJogador";
+  position: absolute;
+  right: 30px;
+  cursor: pointer;
+}
+
+.jogoRow {
+  position: relative;
+  height: 60px;
+  border-bottom: 2px solid #fff;
+  color: #333;
+  cursor: pointer;
+}
+
+.ligaParty {
+  background-color: #5f5;
+}
+
+.ligaSoft {
+  background-color: #ff3;
+}
+
+.ligaHard {
+  background-color: #f33;
+}
+
+.title {
+  padding-top: 20px;
+  padding-left: 105px;
+  height: 40px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.rank {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 60px;
+  font-size: 12px;
+  font-family: monospace;
+}
+
+@sprite .checked {
+  gwt-image: "checkMark";
+}
+
+@sprite .unChecked {
+  gwt-image: "checkBox";
+  margin-top: 2px;
+}
+
+.user {
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 25px;
+}
+
+.checkBoxContainer {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 40px;
+  padding-left: 10px;
+  padding-top: 10px;
+  height: 30px;
+  background-color: #e2f1fd;
+}

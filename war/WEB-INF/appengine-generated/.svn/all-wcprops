@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9/LigaFOP/war/WEB-INF/appengine-generated
+END
+datastore-indexes-auto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/LigaFOP/war/WEB-INF/appengine-generated/datastore-indexes-auto.xml
+END
+local_db.bin
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/LigaFOP/war/WEB-INF/appengine-generated/local_db.bin
+END

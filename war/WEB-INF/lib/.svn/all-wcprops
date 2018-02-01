@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib
+END
+appengine-api-labs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/appengine-api-labs.jar
+END
+appengine-api-1.0-sdk-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/LigaFOP/war/WEB-INF/lib/appengine-api-1.0-sdk-1.8.3.jar
+END
+geronimo-jpa_3.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar
+END
+datanucleus-core-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/datanucleus-core-1.1.5.jar
+END
+datanucleus-appengine-1.0.10.final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar
+END
+geronimo-jta_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar
+END
+datanucleus-jpa-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar
+END
+gwt-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/LigaFOP/war/WEB-INF/lib/gwt-servlet.jar
+END
+appengine-jsr107cache-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/30/LigaFOP/war/WEB-INF/lib/appengine-jsr107cache-1.8.3.jar
+END
+jsr107cache-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/jsr107cache-1.1.jar
+END
+appengine-endpoints.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/appengine-endpoints.jar
+END
+jdo2-api-2.3-eb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/34/LigaFOP/war/WEB-INF/lib/jdo2-api-2.3-eb.jar
+END

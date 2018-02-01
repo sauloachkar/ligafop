@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>LigaFOP.html</welcome-file>
+  </welcome-file-list>
+
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>ligafopApi</servlet-name>
+    <servlet-class>com.appspot.ligafop.server.JogosApiImpl</servlet-class>
+  </servlet>
+  
+  <servlet>
+    <servlet-name>gerentes</servlet-name>
+    <servlet-class>com.appspot.ligafop.server.GerentesServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ligafopApi</servlet-name>
+    <url-pattern>/ligafop/api</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>gerentes</servlet-name>
+    <url-pattern>/gerentes</url-pattern>
+  </servlet-mapping>
+  
+
+
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>all</web-resource-name>
+      <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>*</role-name>
+    </auth-constraint>
+  </security-constraint>
+</web-app>
